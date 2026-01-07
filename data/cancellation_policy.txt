@@ -1,0 +1,7 @@
+
+    SUBSCRIPTION & CANCELLATION
+    1. Self-Service: Users can cancel subscriptions anytime via the Account Dashboard.
+    2. Billing Cycles: Cancellations take effect at the end of the current 30-day billing cycle. No pro-rated refunds are provided for partial months.
+    3. Late Fee: A $10 late fee is applied to accounts that remain unpaid 5 days after the billing date.
+    4. Account Deletion: Canceling a subscription does not delete your data. Data is purged only after 12 months of inactivity.
+    
